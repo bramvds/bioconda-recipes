@@ -29,7 +29,6 @@ requirements:
     - python >=3
     - velvet
     - samtools
-    - zlib
     - openmp  # [linux]
 
 test:
